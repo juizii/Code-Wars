@@ -29,5 +29,6 @@ function DNAStrand(dna) {
         result += char; //false, if letters are not A, T, G, or C
       }
     }
+    
     return result;
   }
