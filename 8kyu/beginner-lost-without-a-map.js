@@ -4,6 +4,7 @@
 
 // [1, 2, 3] --> [2, 4, 6]
 
+
 function maps(x){
     let newArray=[]
    for(let i=0; i< x.length; i++){
