@@ -8,6 +8,7 @@
 // "1405" --> 1405
 // "-7" --> -7
 
+
 const stringToNumber = function(str){
     let num= Number(str);
     return num;
