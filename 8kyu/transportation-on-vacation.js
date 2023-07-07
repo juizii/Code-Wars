@@ -6,6 +6,7 @@
 
 // Write a code that gives out the total amount for different days(d).
 
+
 function rentalCarCost(d) {
     let rentalCost=40*d;
     if (d>= 7){
