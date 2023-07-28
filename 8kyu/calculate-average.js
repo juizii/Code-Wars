@@ -2,7 +2,6 @@
 
 //Note: Empty arrays should return 0.
 
-
 function findAverage(array) {
     let avg = 0;
    let average = 0;
