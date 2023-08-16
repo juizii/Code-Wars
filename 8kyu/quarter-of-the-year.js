@@ -6,7 +6,6 @@
 
 // 1 <= month <= 12
 
-
 const quarterOf = (month) => {
     if (month <=3){
       return 1;
