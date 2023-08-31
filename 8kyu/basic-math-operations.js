@@ -9,7 +9,6 @@
 // ('*', 5, 5) --> 25
 // ('/', 49, 7) --> 7
 
-
 function basicOp(operation, value1, value2){
     switch(operation){
         case '+':
